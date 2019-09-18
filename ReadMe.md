@@ -17,6 +17,11 @@
 ##### Behold!
 Go to http://localhost:8000/
 
+##### Docker support
+	docker-compose up
+
+[Optional] Makefile alises (make up)
+
 ###### Contributors 
 [@GiriB](https://github.com/GiriB)  
 [@johnnycakes79](https://github.com/johnnycakes79)
